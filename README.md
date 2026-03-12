@@ -1,2 +1,2 @@
-# BotDetectionProject
-Stagin project for bot detection, to be determined. 
+# Windirstat Project Home Page
+Staging for our windirstat build.
